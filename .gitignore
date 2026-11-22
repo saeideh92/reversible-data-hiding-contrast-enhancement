@@ -1,0 +1,11 @@
+# MATLAB working files and image datasets
+*.asv
+*.m~
+*.mat
+*.fig
+*.pgm
+*.png
+*.tif
+*.tiff
+/data/
+/results/
